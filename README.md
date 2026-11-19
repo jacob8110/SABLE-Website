@@ -10,6 +10,6 @@
 
 يُنشر الموقع تلقائيًا على GitHub Pages عند كل تحديث لفرع `main` باستخدام سير العمل الموجود في `.github/workflows/deploy.yml`.
 
-لأول نشر، افتح **Settings → Pages** في المستودع واختر **GitHub Actions** ضمن **Build and deployment → Source**. بعد نجاح سير العمل، سيكون الموقع متاحًا على:
+يحاول سير العمل تفعيل GitHub Pages تلقائيًا. إذا تعذّر ذلك، افتح **Settings → Pages** واختر **GitHub Actions** ضمن **Build and deployment → Source**. بعد نجاح سير العمل، سيكون الموقع متاحًا على:
 
 https://jacob8110.github.io/SABLE-Website/
