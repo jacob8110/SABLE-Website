@@ -1,0 +1,15 @@
+# SABLE · Fragrance House
+
+موقع SABLE الثابت، مبني باستخدام HTML وCSS وJavaScript.
+
+## تشغيل الموقع محليًا
+
+افتح `index.html` في المتصفح، أو استخدم إضافة Live Server في VS Code.
+
+## النشر
+
+يُنشر الموقع تلقائيًا على GitHub Pages عند كل تحديث لفرع `main` باستخدام سير العمل الموجود في `.github/workflows/deploy.yml`.
+
+لأول نشر، افتح **Settings → Pages** في المستودع واختر **GitHub Actions** ضمن **Build and deployment → Source**. بعد نجاح سير العمل، سيكون الموقع متاحًا على:
+
+https://jacob8110.github.io/SABLE-Website/
